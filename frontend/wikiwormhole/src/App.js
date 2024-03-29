@@ -2,14 +2,14 @@ import './App.css';
 import './font.css';
 import gsap from "gsap";
 import { useGSAP } from '@gsap/react';
-import Form from './form/form.js';
+import Graph from './graph/graph.js';
 
 gsap.registerPlugin(useGSAP);
 
 function App() {
   return (
     <div className="content">
-      <Form/>
+      <Graph/>
     </div>
   );
 }
