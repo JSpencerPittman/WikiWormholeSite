@@ -1,0 +1,6 @@
+# Python environment
+.env
+__pycache__
+
+# Django
+*.sqlite3
