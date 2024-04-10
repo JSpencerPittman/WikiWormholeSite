@@ -1,4 +1,4 @@
-.home-header {
+.title-cont  {
     width: 100%;
     height: 100%;
     display: flex;
@@ -6,7 +6,7 @@
     justify-content: center;
 }
 
-.home-header > button {
+.title-cont > button {
     color: black;
     font-size: 7vw;
     font-family: 'Raleway';
