@@ -1,4 +1,5 @@
 import CytoscapeComponent from 'react-cytoscapejs';
+import useWebSocket from 'react-use-websocket';
 import React from 'react';
 import './graph.css';
 

@@ -1,0 +1,10 @@
+.graph-cont {
+    width: 75vw;
+    height: 100vh;
+    background-color: green;
+}
+
+.cyto-comp {
+    width: 100%;
+    height: 100%;
+}
