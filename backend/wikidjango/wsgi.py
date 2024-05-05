@@ -1,5 +1,5 @@
 """
-WSGI config for wikiwormhole project.
+WSGI config for wikidjango project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "wikiwormhole.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "wikidjango.settings")
 
 application = get_wsgi_application()

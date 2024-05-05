@@ -4,3 +4,9 @@ __pycache__
 
 # Django
 *.sqlite3
+throttle.ctrl
+
+# Installed wormhole dependencies
+Installed/
+config.yaml
+apicache/
